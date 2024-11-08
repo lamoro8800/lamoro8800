@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ahmed Ashraf
+<h2 align="center">Hi there 👋, I'm Ahmed Ashraf</h2>
 
 I'm a passionate Computer Science student in my third year. With a strong interest in competitive programming and problem-solving, eager to explore and contribute to the tech world.
 

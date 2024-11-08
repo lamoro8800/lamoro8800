@@ -23,7 +23,7 @@ I'm a passionate Computer Science student in my third year. With a strong intere
 ---
 
 ### My GitHub Stats:
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamoro8800&show_icons=true&theme=radical)
 
 ---
 

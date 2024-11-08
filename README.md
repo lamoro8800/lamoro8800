@@ -2,10 +2,10 @@
 
 I'm a passionate Computer Science student in my third year. With a strong interest in competitive programming and problem-solving, eager to explore and contribute to the tech world.
 
-- 🔭 I’m currently working on my portfolio of projects
-- 🌱 I’m learning advanced algorithms and data structures
-- 👯 I’m looking to collaborate on open-source projects
-- 🤖 I’m interested in projects related to artificial intelligence, machine learning, and system design.
+- 🔭 I’m currently working on **my portfolio of projects**
+- 🌱 I’m learning **advanced algorithms and data structures**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 🤖 I’m interested in projects related to **artificial intelligence**, **machine learning**, and **system design**
 - 💬 Ask me about anything tech-related; I'm always open to discussions and eager to help.
 
 📫 **How to reach me:** lamoro8800@gmail.com

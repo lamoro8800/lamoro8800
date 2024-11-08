@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Ahmed Ashraf Attia
+## Hi there 👋, I'm Ahmed Ashraf
 
-I'm a passionate Computer Science student in my third year at FCAI, Cairo University. With a strong interest in competitive programming and problem-solving, eager to explore and contribute to the tech world.
+I'm a passionate Computer Science student in my third year. With a strong interest in competitive programming and problem-solving, eager to explore and contribute to the tech world.
 
 - 🔭 I’m currently working on my portfolio of projects
 - 🌱 I’m learning advanced algorithms and data structures

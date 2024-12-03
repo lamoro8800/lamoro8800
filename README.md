@@ -23,7 +23,7 @@ I'm a passionate Computer Science student in my third year. With a strong intere
 ---
 
 ### Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoro8800&theme=dark&bg_color=1e1e1e)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamoro8800&theme=radical)
 
 
 ### My GitHub Stats:
